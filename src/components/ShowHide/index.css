@@ -1,0 +1,20 @@
+/* Write your CSS here */
+.app-container {
+  background-image: linear-gradient(to right, #fa7257, #fc63a7);
+  background-size: cover;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
+}
+
+.heading {
+  color: white;
+  font-weight: 700;
+}
+.show-hide-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
